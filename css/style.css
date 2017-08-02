@@ -1,0 +1,13 @@
+.column {
+  width: 300px;
+  float: left;
+}
+
+h1 {
+  float: center;
+}
+
+.sidebar {
+  float: right;
+  background: skyblue;
+}
